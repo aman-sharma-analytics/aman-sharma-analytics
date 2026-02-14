@@ -31,7 +31,7 @@ Email Me 👉 ✉️ **tutuaman603@gmail.com** For Collaboration/Project or Anyt
 
 
 <td align="center">
-<b>Retail Performance Dashboard (Power BI)</b><br>
+<b>Retail Sales Dashboard (Power BI)</b><br>
 <a href="https://github.com/aman-sharma-analytics/Omnichannel-Retail-Performance-Dashboard-Power-BI">
 <img src="https://github.com/aman-sharma-analytics/Omnichannel-Retail-Performance-Dashboard-Power-BI/raw/main/Dashboard%20Preview.png" width="350">
 </a>
