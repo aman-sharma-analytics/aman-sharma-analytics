@@ -23,9 +23,9 @@ Email Me 👉 ✉️ **tutuaman603@gmail.com** For Collaboration/Project or Anyt
 </td>
 
 <td align="center">
-<b>👟 Adidas Sales Dashboard (Excel)</b><br>
+<b>Adidas Sales Dashboard (Excel)</b><br>
 <a href="https://github.com/aman-sharma-analytics/Adidas-Sales-Dashboard-Excel">
-<img src="https://github.com/aman-sharma-analytics/Adidas-Sales-Dashboard-Excel/blob/main/Dashboard%20Preview.png" width="320">
+<img src="https://github.com/aman-sharma-analytics/Adidas-Sales-Dashboard-Excel/blob/main/Dashboard%20Preview.png" width="350">
 </a>
 </td>
 
