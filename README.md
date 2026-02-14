@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **tutuaman603@gmail.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:** tutuaman603@gmail.com
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tutuaman603@gmail.com) 
+![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/aman-sharma-5050a3229/))   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tutuaman603@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
