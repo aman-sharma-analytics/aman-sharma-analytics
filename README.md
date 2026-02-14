@@ -1,8 +1,7 @@
-# 💫 Hi 👋, I'm Aman Sharma
+# 💫 Hi 💀, I'm Aman Sharma
 **Data Analyst | Excel • Power BI • SQL • Python • Dashboard Development** 
 
-Email Me 👉 ✉️ **tutuaman603@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
+Email Me 👉 ✉️ **tutuaman603@gmail.com** For Collaboration/Project or Anything Else.
 - 🔭 **I’m currently working on:** Pharmacy Sales Dashboard 
 - 🌱 **I’m currently learning:** Data Analytics 
 - 📫 **How to reach me:** tutuaman603@gmail.com
